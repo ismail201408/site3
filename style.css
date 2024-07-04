@@ -1,0 +1,83 @@
+.w{
+    width: 1470px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+}
+select{
+    border: none;
+    outline: none;
+}
+button{
+    border-radius: 100%;
+    width: 100px;
+    height: 30px;
+    background-image: linear-gradient(to right, yellow , red);
+    position: absolute;
+    top: 20px;
+    left: 1000px; 
+}
+.a{
+  position: absolute;
+  top: 10px;
+  left: 500px;
+}
+.b{
+    position: absolute;
+  top: 10px;
+  left: 600px; 
+}
+.c{
+    position: absolute;
+    top: 28px;
+    left: 700px; 
+}
+.d{
+    position: absolute;
+    top: 28px;
+    left: 800px; 
+}
+.e{
+    position: absolute;
+    top: 28px;
+    left: 900px; 
+}
+img{
+    width: 1470px;
+    height: 500px;
+    background-image: linear-gradient(to right, red , yellow);
+}
+h1{
+    position: absolute;
+    top: 190px;
+    left: 530px;
+    font-size: 50px;
+}
+pre{
+    font-size: 20px;
+    position: absolute;
+    top: 270px;
+    left: 550px;
+}
+input{
+    background-color: white;
+    color: black;
+    border-radius: 30%;
+    width: 140px;
+    height: 30px ;
+    position: absolute;
+    top: 360px;
+    left: 640px;
+}
+.x{
+    margin-top: 400px;
+    margin-left: 50px;
+    border-bottom: solid orange 5px ;
+}
+.z{
+    margin-top: 400px;
+    margin-left: -100px;
+}
+.v{
+    margin-top: -240px ;
+    margin-left: -670px;
+}
